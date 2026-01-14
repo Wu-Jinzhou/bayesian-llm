@@ -1,0 +1,20 @@
+# Core
+numpy
+pandas
+matplotlib
+plotly
+tqdm
+scikit-learn
+
+# Notebooks
+jupyter
+ipykernel
+ipywidgets
+
+# LLM + mech interp
+torch
+transformers
+accelerate
+huggingface-hub
+transformer-lens
+
